@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    border: 2px solid red 
+
 }
 
 body {
@@ -128,6 +128,7 @@ aside {
     max-width: 150px;
 }
 
+/* Footer with copyright and company name */
 footer {
     padding: 30px;
     clear: both;
